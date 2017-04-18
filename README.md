@@ -1,5 +1,3 @@
-# Project-Cribs
-Predictive Model for home price
 
 # Introduction
 This is a coursework project that we have completed in Winter 2017. Using SAS software, we built a multivariate regression model for predicting home sale price in King County. 
