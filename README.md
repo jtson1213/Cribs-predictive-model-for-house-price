@@ -12,3 +12,8 @@ The data set in the analysis has historical data on house sales in King County, 
 
 We analyzed how influential these features are on house price and conducted prediction test using our final model. We assumed that the prices of the houses are only affected by the variables used in the data set and factors like interest rates, property taxes other political and economic factors stay constant. Our final model indicates that house prices in King County are most influenced by interior area of a house, the location of a house and whether a house has a basement or not. Finally, we are excited to declare that the predictors in our final model can explain over 75 percent of variation in house prices in King County. 
 
+•	Analyzed uncleaned multi-dimension data through SAS software.
+
+•	Developed predictive models based on methods in Applied Statistics. 
+
+•	Improved the model performance up to 75% accuracy by testing model assumptions, significance of coefficient estimates, multicollinearity problem, and influence diagnostics.
