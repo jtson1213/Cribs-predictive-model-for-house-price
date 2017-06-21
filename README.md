@@ -1,4 +1,4 @@
-# Home Purchase Prediction
+# Cribs: Predictive Model for house price
 Coursework Project for CSC423 (Data Analysis and Regression)
 
 # Introduction
